@@ -2,4 +2,4 @@
 Utilizando o Bootstrap pela primeira vez para criar um site.
 
 ## Link: 
-[Meu site](https://nathalia-nobrega.github.io/dio-aula-bootstrap/)
+[Meu site](https://nathalia-nobrega.github.io/dio-site-bootstrap/)
