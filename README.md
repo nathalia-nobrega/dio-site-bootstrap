@@ -1,2 +1,2 @@
 # dio-aula-bootstrap
-Utilizando Bootstrap
+Utilizando o Bootstrap pela primeira vez para criar um site.
